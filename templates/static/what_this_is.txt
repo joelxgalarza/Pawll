@@ -1,0 +1,1 @@
+Folder static is where react components will be
